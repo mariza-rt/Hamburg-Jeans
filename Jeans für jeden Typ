@@ -599,6 +599,27 @@ html
 </html>
 
 
-
+<!DOCTYPE html><html lang="de"><head>    <meta charset="UTF-8">    <meta name="viewport" content="width=device-width, initial-scale=1.0">    <title>Hamburg Jeans | Authentische Denim-Expertise vor Ort</title>    <link rel="stylesheet" href="style.css"></head><body>    <header>        <div class="nav-container">            <div class="logo">                <h1>Hamburg<span>Jeans</span></h1>            </div>            <nav>                <ul>                    <li><a href="index.html" class="active">Startseite</a></li>                    <li><a href="philosophie.html">Philosophie</a></li>                    <li><a href="beratung.html">Beratung</a></li>                    <li><a href="store.html">Der Store</a></li>                </ul>            </nav>        </div>    </header>    <section class="hero">        <div class="hero-content">            <h2>Die perfekte Jeans findet man nicht im Warenkorb.</h2>            <p>Sondern durch echte, hanseatische Beratung auf 260 m² Ladenfläche. Erleben Sie Passform-Expertise, die sitzt.</p>            <a href="store.html" class="btn">Besuchen Sie uns in Wandsbek</a>        </div>    </section>    <main>        <h2 class="section-title">Warum Hamburg Jeans?</h2>        <div class="grid-container">            <div class="card">                <h3>Über 30 Jahre Erfahrung</h3>                <p>Wir sehen auf den ersten Blick, welche Hose Ihnen wie angegossen passt. Vertrauen Sie unserem geschulten Auge.</p>            </div>            <div class="card">                <h3>Riesige Markenauswahl</h3>                <p>Von Levi's, Wrangler und Lee bis hin zu Mac und Pioneer – wir führen die Klassiker der weltweiten Denim-Kultur.</p>            </div>            <div class="card">                <h3>Spezialist für Überlängen</h3>                <p>Keine Kompromisse: Wir halten Jeans in Überlängen bis 38 Inch Länge und 48 Inch Weite direkt für Sie bereit.</p>            </div>        </div>        <section class="split-section">            <div class="split-text">                <h3>Der "Stationary First"-Vorteil</h3>                <p>Online-Shopping bedeutet oft: Bestellen, warten, enttäuscht sein und zurückschicken. Bei uns gehen Sie mit einer Jeans nach Hause, die am selben Tag perfekt sitzt. Keine falschen Farbtöne auf Bildschirmen, kein Paketstress. Nur ehrliche Beratung und echte Haptik.</p>                <br>                <a href="beratung.html" class="btn">Mehr zu unserem Service</a>            </div>            <div class="split-image">                <img src="https://unsplash.com" alt="Auswahl an Denim Stoffen im Laden">            </div>        </section>    </main>    <footer>        <div class="footer-container">            <div class="footer-col">                <h4>Hamburg Jeans</h4>                <p>Ihr traditionsreicher Spezialist für perfekt sitzende Jeans im Herzen von Hamburg-Wandsbek.</p>
+            </div>
+            <div class="footer-col">
+                <h4>Öffnungszeiten</h4>
+                <ul>
+                    <li>Mo. - Fr.: 10:00 – 18:00 Uhr</li>
+                    <li>Samstag: 10:00 – 16:00 Uhr</li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Kontakt</h4>
+                <ul>
+                    <li>Wandsbeker Allee 68</li>
+                    <li>22041 Hamburg</li>
+                    <li>Tel: 040 – 68 91 58 30</li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 Hamburg Jeans - Jeans House Ohlrogge GmbH & Co. KG. Alle Rechte vorbehalten. | Impressum & Datenschutz</p>
+        </div>
+    </footer></body></html>
 
 
